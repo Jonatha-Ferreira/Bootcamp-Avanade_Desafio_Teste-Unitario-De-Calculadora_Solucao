@@ -1,0 +1,14 @@
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\bin\Debug\net8.0\ConsoleApp_Calculadora.exe
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\bin\Debug\net8.0\ConsoleApp_Calculadora.deps.json
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\bin\Debug\net8.0\ConsoleApp_Calculadora.runtimeconfig.json
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\bin\Debug\net8.0\ConsoleApp_Calculadora.dll
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\bin\Debug\net8.0\ConsoleApp_Calculadora.pdb
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ConsoleApp_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ConsoleApp_Calculadora.AssemblyInfoInputs.cache
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ConsoleApp_Calculadora.AssemblyInfo.cs
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ConsoleApp_Calculadora.csproj.CoreCompileInputs.cache
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ConsoleApp_Calculadora.dll
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\refint\ConsoleApp_Calculadora.dll
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ConsoleApp_Calculadora.pdb
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ConsoleApp_Calculadora.genruntimeconfig.cache
+D:\Pessoal\Visual Studio\ProjetoFinalDoBootcampAvanade\ConsoleApp_Calculadora\ConsoleApp_Calculadora\obj\Debug\net8.0\ref\ConsoleApp_Calculadora.dll
